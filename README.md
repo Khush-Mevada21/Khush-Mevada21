@@ -67,8 +67,9 @@
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khush-Mevada21&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=2ECC71&icon_color=4CAF50&text_color=FFFFFF&bg_color=191919" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khush-Mevada21&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=2ECC71&ring=4CAF50&currStreakLabel=2ECC71&background=191919" width="45%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khush-Mevada21&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=2ECC71&icon_color=4CAF50&text_color=FFFFFF&bg_color=191919" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khush-Mevada21&theme=dark&hide_border=true&fire=2ECC71&ring=4CAF50&currStreakLabel=2ECC71&background=191919" width="48%" alt="GitHub Streak" />
 </p>
 
 
